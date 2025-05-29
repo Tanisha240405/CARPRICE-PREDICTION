@@ -1,4 +1,4 @@
-# CARPRICE-PREDICTION# Car Price Prediction
+# CARPRICE-PREDICTION
 
 This project is a machine learning model to predict car prices (MSRP) using various features such as make, year, engine specifications, and more. The dataset used is provided in `CarPrice_Assignment.csv`.
 
